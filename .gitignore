@@ -1,0 +1,5 @@
+# Ignore CSV log files
+*.csv
+
+# Ignore Keras model files
+*.keras
